@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jeevan Kumar
 
-<!--
-**Jeevankumar-KJK/Jeevankumar-KJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA student specializing in Digital Marketing, currently working at GenAI Lakes.
 
-Here are some ideas to get you started:
+I'm interested in digital marketing, artificial intelligence, and how technology can help businesses grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently working at GenAI Lakes
+- Pursuing an MBA in Digital Marketing
+- Interested in SEO, Google Ads, and Social Media Marketing
+- Exploring AI tools and marketing automation
+- Focused on learning through practical projects
+
+## Skills & Tools
+
+- Digital Marketing
+- Search Engine Optimization (SEO)
+- Google Ads
+- Social Media Marketing
+- Microsoft Excel
+- Python (Currently Learning)
+- Data Analytics (Currently Learning)
+
+## Current Goals
+
+- Improve my digital marketing skills
+- Learn Python and data analytics
+- Build practical projects
+- Explore AI-powered marketing solutions
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+Always learning. Always improving.
